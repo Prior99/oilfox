@@ -3,7 +3,7 @@ from __future__ import annotations
 from datetime import timedelta
 import logging
 from pickle import FALSE
-from homeassistant.components.oilfox.oilfox import OilfoxDevice, OilfoxHub
+from .oilfox import OilfoxDevice, OilfoxHub
 
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.const import Platform

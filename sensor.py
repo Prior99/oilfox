@@ -1,7 +1,7 @@
 """Oilfox metering."""
 
 from pickle import TRUE
-from homeassistant.components.oilfox.const import DATA_COODINATOR, DOMAIN
+from .const import DATA_COODINATOR, DOMAIN
 from homeassistant.components.sensor import (
     SensorDeviceClass,
     SensorEntity,
