@@ -1,0 +1,13 @@
+{
+  "domain": "oilfox",
+  "name": "Oilfox",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/oilfox",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@prior99"],
+  "iot_class": "cloud_polling"
+}
